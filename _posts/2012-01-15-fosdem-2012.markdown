@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: FOSDEM 2012
+author:
+  display_name: exekias
+  login: exekias
+  email: exekias@gmail.com
+  url: ''
+author_login: exekias
+author_email: exekias@gmail.com
+wordpress_id: 613
+wordpress_url: http://www.thebigbugtheory.com/?p=613
+date: !binary |-
+  MjAxMi0wMS0xNSAxODozNTo1NSArMDEwMA==
+date_gmt: !binary |-
+  MjAxMi0wMS0xNSAxNzozNTo1NSArMDEwMA==
+categories:
+- free software
+- zentyal
+tags:
+- fosdem
+comments: []
+---
+<p>One more year, I'm going to <a href="http:&#47;&#47;www.fosdem.org">FOSDEM<&#47;a>. This time almost the whole <strong>Zentyal team will be there also!<&#47;strong> So if you want to hang out with us we will attend the <a href="http:&#47;&#47;fosdem.org&#47;2012&#47;beerevent">Friday beer event<&#47;a> and, of course, <a href="http:&#47;&#47;fosdem.org&#47;2012&#47;schedule&#47;tracks">Saturday and Sunday tracks<&#47;a>.</p>
+<p><center><a href="&#47;wp-content&#47;uploads&#47;2012&#47;01&#47;fosdem2012-going-to.png"><img class="alignnone size-full wp-image-663" alt="fosdem2012-going-to" src="&#47;wp-content&#47;uploads&#47;2012&#47;01&#47;fosdem2012-going-to.png" width="150" height="89" &#47;><&#47;a><&#47;center>See you there!</p>

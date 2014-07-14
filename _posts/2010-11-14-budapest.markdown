@@ -1,0 +1,42 @@
+---
+layout: post
+status: publish
+published: true
+title: Budapest
+author:
+  display_name: exekias
+  login: exekias
+  email: exekias@gmail.com
+  url: ''
+author_login: exekias
+author_email: exekias@gmail.com
+excerpt: ! 'Un saludo desde Budapest! Ya llevo unos d&iacute;as por aqu&iacute; visitando
+  a la amiga Vico, ya os contar&eacute; c&oacute;mo va la cosa, de momento os dejo
+  unas fotos, esta ciudad es preciosa.
+
+
+  <a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;exekias&#47;5176174518&#47;"
+  title="Chain bridge by exekias, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4003&#47;5176174518_2fcd7ec1b2.jpg"
+  width="500" height="375" alt="Chain bridge" class="aligncenter" &#47;><&#47;a>
+
+
+'
+wordpress_id: 280
+wordpress_url: http://www.thebigbugtheory.com/?p=280
+date: !binary |-
+  MjAxMC0xMS0xNCAyMjoyMTo1NyArMDEwMA==
+date_gmt: !binary |-
+  MjAxMC0xMS0xNCAyMToyMTo1NyArMDEwMA==
+categories:
+- travels
+- photos
+tags:
+- budapest
+comments: []
+---
+<p>Un saludo desde Budapest! Ya llevo unos d&iacute;as por aqu&iacute; visitando a la amiga Vico, ya os contar&eacute; c&oacute;mo va la cosa, de momento os dejo unas fotos, esta ciudad es preciosa.</p>
+<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;exekias&#47;5176174518&#47;" title="Chain bridge by exekias, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4003&#47;5176174518_2fcd7ec1b2.jpg" width="500" height="375" alt="Chain bridge" class="aligncenter" &#47;><&#47;a></p>
+<p><a id="more"></a><a id="more-280"></a></p>
+<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;exekias&#47;5176174482&#47;" title="Heroes Square by exekias, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4130&#47;5176174482_55c0c004b0.jpg" width="500" height="375" alt="Heroes Square" class="aligncenter" &#47;><&#47;a></p>
+<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;exekias&#47;5176174468&#47;" title="Budapest skyline at night by exekias, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4086&#47;5176174468_bbe3183fb4.jpg" width="500" height="375" alt="Budapest skyline at night" class="aligncenter" &#47;><&#47;a></p>
+<p><a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;exekias&#47;5176174456&#47;" title="Gellert Hill by exekias, on Flickr"><img src="http:&#47;&#47;farm5.static.flickr.com&#47;4111&#47;5176174456_e59da296ee.jpg" width="500" height="375" alt="Gellert Hill" class="aligncenter" &#47;><&#47;a></p>

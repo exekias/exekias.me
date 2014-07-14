@@ -1,0 +1,22 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: exekias
+  login: exekias
+  email: exekias@gmail.com
+  url: ''
+author_login: exekias
+author_email: exekias@gmail.com
+wordpress_id: 678
+wordpress_url: http://exekias.me/?p=678
+date: !binary |-
+  MjAxNC0wMS0zMCAxNjoyMzowOSArMDEwMA==
+date_gmt: !binary |-
+  MjAxNC0wMS0zMCAxNToyMzowOSArMDEwMA==
+categories: []
+tags: []
+comments: []
+---
+
