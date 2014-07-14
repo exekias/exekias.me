@@ -15,24 +15,13 @@
     <link href="/img/logo.jpg" rel="shortcut icon">
 </head>
 <body>
-  <div class="sidebar">
-    <a href="/" class="logo">
-      <img src="/img/logo.jpg">
-    </a>
 
-    <ul class="nav">
-      <div class="nav-inner">
-        <li><a href="/"><span class="icon doc"></span>blog</a></li>
-        <li><a href="/about/"><span class="icon info"></span>about</a></li>
-        <li><a href="/projects"><span class="icon code"></span>projects</a></li>
-        <li><a href="http://github.com/exekias"><span class="icon github"></span>github</a></li>
-        <li><a href="http://twitter.com/exekias"><span class="icon twitter"></span>twitter</a></li>
-      </div>
-    </ul>
-  </div>
+  {% include sidebar.html %}
+
   <div class="wrapper">
     <h1>exekias.me</h1>
     {{ content }}
   </div>
+
 </body>
 </html>
