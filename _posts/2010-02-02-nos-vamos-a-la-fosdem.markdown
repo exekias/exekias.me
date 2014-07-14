@@ -12,7 +12,7 @@ El amigo [bencer](http://bq.cauterized.net) y yo también asistiremos a la fosde
 ![http://fosdem.org](http://www.fosdem.org/promo/going-to)
 
 ¿Que qué es "la fosdem"?
-========================
+------------------------
 
 > FOSDEM '10 is a free and non-commercial event organized by the community, for the community. Its goal is to provide Free and Open Source developers a place to meet.
 
