@@ -42,7 +42,7 @@ a:hover {
 .wrapper {
   padding-right: 20px;
   position: relative;
-  margin-left: 400px;
+  margin-left: 330px;
 }
 
 .wrapper h1 {
@@ -70,7 +70,7 @@ a {
 
 .post-body {
   line-height: 1.3em;
-  max-width: 700px;
+  max-width: 900px;
 }
 
 .post-body img {
@@ -171,8 +171,8 @@ video {
     top: 0;
     left: 0;
     margin: 0;
-    padding: 5px;
-    overflow-x: auto;
+    padding: 0;
+    overflow: hidden;
     -webkit-overflow-scrolling: touch;
     width: 100%;
     height: 3rem;
