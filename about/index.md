@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-permalink: /about/
 ---
 My name is **Carlos Pérez-Aradros Herce**. I was born in Arnedo, a little town in La Rioja, Spain. **Since I was a child I have always enjoyed problem solving**, no matter what kind. I can remember myself playing with mechanics and electricity, from hammer and screwdrivers to K’Nex and small circuits. **I got my first computer at the age of 11, that truncated my career as guitarist :P**
 
