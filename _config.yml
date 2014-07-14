@@ -1,8 +1,8 @@
 # Site settings
+title: exekias.me
 timezone: Europe/Madrid
 highlight: pygments
 
 # Build settings
-#permalink: pretty
 markdown: kramdown
 permalink: /:year/:month/:day/:title
