@@ -9,7 +9,7 @@ tags:
 ---
 El amigo [bencer](http://bq.cauterized.net) y yo también asistiremos a la fosdem. Mañana comienza el viaje!
 
-![http://fosdem.org](http://www.fosdem.org/promo/going-to)
+![http://fosdem.org](/assets/fosdem-going-to.png)
 
 ¿Que qué es "la fosdem"?
 ------------------------
