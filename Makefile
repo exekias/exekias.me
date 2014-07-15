@@ -4,7 +4,7 @@
 
 test:
 	sleep 1 && google-chrome http://localhost:4000 &
-	jekyll serve -w
+	jekyll serve -w --drafts
 
 build:
 	jekyll build
