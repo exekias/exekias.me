@@ -34,13 +34,15 @@ Inglorious Basterds<br />
 Precious: Based on the Novel &lsquo;Push&rsquo; by Sapphire<br />
 A Serious Man<br />
 Up<br />
-Up in the Air</p>
+Up in the Air
+
 <h3>Mejor Direcci&oacute;n</h3><br />
 James Cameron por Avatar<br />
 <strong>Kathryn Bigelow</strong> por The Hurt Locker<br />
 Quentin Tarantino por Inglorious Basterds<br />
 Lee Daniels por Precious<br />
-Jason Reitman por Up in the Air</p>
+Jason Reitman por Up in the Air
+
 <p>Aunque Avatar ha sido la revoluci&oacute;n del a&ntilde;o en taquilla (en parte debido a la llegada del cine 3D) creo que finalmente The Hurt Locker se alzar&aacute; con la estatu&iacute;lla, tanto a mejor pel&iacute;cula como mejor direcci&oacute;n. De ser as&iacute; Kathryn Bigelow se convertir&iacute;a en la primera mujer en ganar el premio al mejor director. En toda la historia de los Oscar tan s&oacute;lo 3 mujeres han sido nominadas.</p>
 <p><a href="/wp-content/uploads/2010/03/080225-jeff-bridges-vmed-5p.widec.jpg"><img src="/wp-content/uploads/2010/03/080225-jeff-bridges-vmed-5p.widec-200x300.jpg" alt="Jeff Bridges en El gran Leboski" title="Jeff Bridges" width="200" height="300" class="alignleft size-medium wp-image-71" /></a></p>
 <h3>Mejor Actor</h3><br />
