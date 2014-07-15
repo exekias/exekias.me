@@ -68,6 +68,17 @@ a {
   width: 140px;
 }
 
+.post h1 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.post-info {
+  margin: 3px 0 30px 0;
+  font-size: 0.9em;
+  color: gray;
+}
+
 .post-body {
   line-height: 1.3em;
   max-width: 900px;
