@@ -22,6 +22,6 @@ tags: []
 comments: []
 ---
 <div style="text-align: center">
-<a href="http:&#47;&#47;www.flickr.com&#47;photos&#47;exekias&#47;4594210897&#47;" title="Domingo de barbacoa "><img src="http:&#47;&#47;farm4.static.flickr.com&#47;3378&#47;4594210897_9bd1284fdf.jpg" style="border: solid 1px #000;padding: 0" alt="Domingo de barbacoa " &#47;><&#47;a><br />
-<&#47;div></p>
-<p><&#47;p></p>
+<a href="http://www.flickr.com/photos/exekias/4594210897/" title="Domingo de barbacoa "><img src="http://farm4.static.flickr.com/3378/4594210897_9bd1284fdf.jpg" style="border: solid 1px #000;padding: 0" alt="Domingo de barbacoa " /></a><br />
+</div></p>
+<p></p></p>

@@ -31,7 +31,7 @@ comments:
   date_gmt: !binary |-
     MjAxMC0wOC0xOSAxMzo1NDo1OCArMDIwMA==
   content: ! '[...] This post was mentioned on Twitter by zentyal, eBox Platform.
-    eBox Platform said: Check out how the new Zentyal logo looks like :)! http:&#47;&#47;bit.ly&#47;9kRmaR
+    eBox Platform said: Check out how the new Zentyal logo looks like :)! http://bit.ly/9kRmaR
     [...]'
 - id: 11
   author: eBox Platform changes name to Zentyal | eBox Platform
@@ -68,8 +68,8 @@ comments:
     how come we selected Zentyal or how we came up with the Zentyal logo, just check
     these posts in Planet [...]'
 ---
-<p>As Ignacio <a href="http:&#47;&#47;blogs.ebox-platform.com&#47;icorreas&#47;2010&#47;08&#47;05&#47;changing-the-name-of-ebox-platform&#47;">announced<&#47;a>, eBox has changed its name! Roxane explained the <a href="http:&#47;&#47;blogs.ebox-platform.com&#47;gueststars&#47;2010&#47;08&#47;12&#47;the-process-of-choosing-a-new-name-for-ebox&#47;">process of choosing a new name<&#47;a> and Heidi has finally <a href="http:&#47;&#47;blogs.ebox-platform.com&#47;heidi&#47;2010&#47;08&#47;19&#47;the-new-name-for-ebox-platform-is-zentyal&#47;">unveiled it<&#47;a>. <strong>eBox Platform becomes <a href="http:&#47;&#47;www.zentyal.com">Zentyal<&#47;a>!<&#47;strong> Of course, we also have a new logo!</p>
+<p>As Ignacio <a href="http://blogs.ebox-platform.com/icorreas/2010/08/05/changing-the-name-of-ebox-platform/">announced</a>, eBox has changed its name! Roxane explained the <a href="http://blogs.ebox-platform.com/gueststars/2010/08/12/the-process-of-choosing-a-new-name-for-ebox/">process of choosing a new name</a> and Heidi has finally <a href="http://blogs.ebox-platform.com/heidi/2010/08/19/the-new-name-for-ebox-platform-is-zentyal/">unveiled it</a>. <strong>eBox Platform becomes <a href="http://www.zentyal.com">Zentyal</a>!</strong> Of course, we also have a new logo!</p>
 <p>After choosing Zentyal as the new name for eBox we obviously needed a logo redesign. It had to transmit Zentyal values, already explained in previous posts, but we also wanted to keep green and orange colors. </p>
 <p>Our designer proposed five different drafts, and choosing the definitive one was a funny process. For a week we had all the logos posted on a board, and wrote down what each logo transmitted to us. After some days of talking we reached a quorum, we had a brand new Zentyal logo!</p>
-<p><a href="http:&#47;&#47;www.zentyal.com"><img src="&#47;wp-content&#47;uploads&#47;2010&#47;08&#47;zentyal_logo.png" alt="Zentyal" title="Zentyal logo" width="500" height="161" class="aligncenter size-full wp-image-258" &#47;><&#47;a></p>
-<p>What I most like from this logo is that it keeps the soul of eBox, but with a new identity. I think we all feel very comfortable with it. So, what do you think? I hope you like it too! Feel free to comment here or in the <a href="http:&#47;&#47;forum.ebox-platform.com&#47;">forum <&#47;a>!</p>
+<p><a href="http://www.zentyal.com"><img src="/wp-content/uploads/2010/08/zentyal_logo.png" alt="Zentyal" title="Zentyal logo" width="500" height="161" class="aligncenter size-full wp-image-258" /></a></p>
+<p>What I most like from this logo is that it keeps the soul of eBox, but with a new identity. I think we all feel very comfortable with it. So, what do you think? I hope you like it too! Feel free to comment here or in the <a href="http://forum.ebox-platform.com/">forum </a>!</p>

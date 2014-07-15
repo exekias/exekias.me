@@ -27,5 +27,5 @@ tags:
 comments: []
 ---
 <p>So if you noticed that I have been a little offline lately, here is the reason :)</p>
-<p><img class="aligncenter size-full wp-image-623" title="me at the Great Wall of China" alt="" src="&#47;wp-content&#47;uploads&#47;2012&#47;08&#47;exekias_great_wall_china.jpg" &#47;></p>
+<p><img class="aligncenter size-full wp-image-623" title="me at the Great Wall of China" alt="" src="/wp-content/uploads/2012/08/exekias_great_wall_china.jpg" /></p>
 <p>Back to work, we have a lot of things to do before (and after) the release!</p>

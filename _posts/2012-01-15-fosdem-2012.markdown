@@ -23,5 +23,5 @@ tags:
 - fosdem
 comments: []
 ---
-<p>One more year, I'm going to <a href="http:&#47;&#47;www.fosdem.org">FOSDEM<&#47;a>. This time almost the whole <strong>Zentyal team will be there also!<&#47;strong> So if you want to hang out with us we will attend the <a href="http:&#47;&#47;fosdem.org&#47;2012&#47;beerevent">Friday beer event<&#47;a> and, of course, <a href="http:&#47;&#47;fosdem.org&#47;2012&#47;schedule&#47;tracks">Saturday and Sunday tracks<&#47;a>.</p>
-<p><center><a href="&#47;wp-content&#47;uploads&#47;2012&#47;01&#47;fosdem2012-going-to.png"><img class="alignnone size-full wp-image-663" alt="fosdem2012-going-to" src="&#47;wp-content&#47;uploads&#47;2012&#47;01&#47;fosdem2012-going-to.png" width="150" height="89" &#47;><&#47;a><&#47;center>See you there!</p>
+<p>One more year, I'm going to <a href="http://www.fosdem.org">FOSDEM</a>. This time almost the whole <strong>Zentyal team will be there also!</strong> So if you want to hang out with us we will attend the <a href="http://fosdem.org/2012/beerevent">Friday beer event</a> and, of course, <a href="http://fosdem.org/2012/schedule/tracks">Saturday and Sunday tracks</a>.</p>
+<p><center><a href="/wp-content/uploads/2012/01/fosdem2012-going-to.png"><img class="alignnone size-full wp-image-663" alt="fosdem2012-going-to" src="/wp-content/uploads/2012/01/fosdem2012-going-to.png" width="150" height="89" /></a></center>See you there!</p>

@@ -83,21 +83,21 @@ comments:
     to redirect the login page to another page, say, giving a login declaration with
     \"I agree\" tickbox or something?\n\nRegards\n \nkmnair"
 ---
-<p><a href="http:&#47;&#47;www.zentyal.org&#47;beta&#47;" title="Zentyal 2.2 Release Candidate 2">Zentyal 2.2 RC2<&#47;a> was <a href="http:&#47;&#47;www.zentyal.org&#47;archives&#47;2011&#47;08&#47;25&#47;768-zentyal-2-2-rc2-available-for-download&#47;">released<&#47;a> on Thursday, so we are almost there, <strong>Zentyal 2.2 stable version will be ready in a few weeks<&#47;strong>. One of the new features that was not present in 2.0 is the new Captive Portal module. We raised enough money in our <a href="http:&#47;&#47;trac.zentyal.org&#47;wiki&#47;Document&#47;Development&#47;Fundraising" title="Zentyal Fundraising">fundraising initiative<&#47;a> so finally the module was included in 2.2 release :)</p>
-<p>Official doc is still in the oven so I'm going to explain how to use the module, this will help you if you want to join <a href="http:&#47;&#47;forum.zentyal.org&#47;index.php&#47;board,10.0.html" title="Beta Testing Zentyal forum">testing efforts<&#47;a>.</p>
-<h3>What is a Captive Portal?<&#47;h3><br />
-A captive portal limits users access to the Internet redirecting any web request to a login page. When the user correctly authenticates he&#47;she is allowed to navigate and use any of the network services.</p>
+<p><a href="http://www.zentyal.org/beta/" title="Zentyal 2.2 Release Candidate 2">Zentyal 2.2 RC2</a> was <a href="http://www.zentyal.org/archives/2011/08/25/768-zentyal-2-2-rc2-available-for-download/">released</a> on Thursday, so we are almost there, <strong>Zentyal 2.2 stable version will be ready in a few weeks</strong>. One of the new features that was not present in 2.0 is the new Captive Portal module. We raised enough money in our <a href="http://trac.zentyal.org/wiki/Document/Development/Fundraising" title="Zentyal Fundraising">fundraising initiative</a> so finally the module was included in 2.2 release :)</p>
+<p>Official doc is still in the oven so I'm going to explain how to use the module, this will help you if you want to join <a href="http://forum.zentyal.org/index.php/board,10.0.html" title="Beta Testing Zentyal forum">testing efforts</a>.</p>
+<h3>What is a Captive Portal?</h3><br />
+A captive portal limits users access to the Internet redirecting any web request to a login page. When the user correctly authenticates he/she is allowed to navigate and use any of the network services.</p>
 <p>Captive portals are typically used at WiFi hotspots but also in wired networks at hotels, schools, airports...</p>
-<h3>Basic configuration<&#47;h3></p>
+<h3>Basic configuration</h3></p>
 <p>Zentyal Captive Portal is very easy to configure, you just need to select interfaces where you want to control access and the group of users who will be allowed to log in:</p>
-<p><img src="&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;main-bwmonitor.png" alt="" title="Configuration with bandwidth limitation" width="797" height="589" class="aligncenter size-full wp-image-569" &#47;></p>
-<p>Also, if you installed <strong>Bandwidth Monitor<&#47;strong> module, you can setup a bandwidth usage quota. This will measure and control bandwidth usage for each connected user, forbidding access to those who exceed it.</p>
-<h3>Accessing trough Captive Portal<&#47;h3></p>
+<p><img src="/wp-content/uploads/2011/08/main-bwmonitor.png" alt="" title="Configuration with bandwidth limitation" width="797" height="589" class="aligncenter size-full wp-image-569" /></p>
+<p>Also, if you installed <strong>Bandwidth Monitor</strong> module, you can setup a bandwidth usage quota. This will measure and control bandwidth usage for each connected user, forbidding access to those who exceed it.</p>
+<h3>Accessing trough Captive Portal</h3></p>
 <p>From the user point of view this is what will happen:</p>
 <p>First time you connect through a captive interface your web browser will redirect to a login for any request:</p>
-<p><img src="&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;login.png" alt="" title="Login portal" width="489" height="293" class="aligncenter size-full wp-image-567" &#47;></p>
+<p><img src="/wp-content/uploads/2011/08/login.png" alt="" title="Login portal" width="489" height="293" class="aligncenter size-full wp-image-567" /></p>
 <p>Once you have logged in, a popup window will open. This window is in charge of keeping your session alive. It's used by Zentyal to know if you left just closing the web browser without logging out.</p>
-<p><img src="&#47;wp-content&#47;uploads&#47;2011&#47;08&#47;popup.png" alt="" title="Captive Portal Popup WIndow" width="352" height="306" class="aligncenter size-full wp-image-570" &#47;></p>
-<h3>Conclusions<&#47;h3></p>
+<p><img src="/wp-content/uploads/2011/08/popup.png" alt="" title="Captive Portal Popup WIndow" width="352" height="306" class="aligncenter size-full wp-image-570" /></p>
+<h3>Conclusions</h3></p>
 <p>I think Captive Portal has been a very requested feature and I'm glad Zentyal finally has it! This was a good example on how the community helped us to make a decision about a new feature we should include and crowdsourcing made the funding possible.<br />
-If you liked this tutorial, give the module a try and <a href="http:&#47;&#47;forum.zentyal.org&#47;index.php&#47;board,10.0.html" title="Beta Testing Zentyal forum">give us feedback<&#47;a>! Zentyal 2.2 is just around the corner!</p>
+If you liked this tutorial, give the module a try and <a href="http://forum.zentyal.org/index.php/board,10.0.html" title="Beta Testing Zentyal forum">give us feedback</a>! Zentyal 2.2 is just around the corner!</p>

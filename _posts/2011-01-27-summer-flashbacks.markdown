@@ -31,6 +31,6 @@ comments:
     MjAxMS0wMS0yNyAyMDo1NzowNCArMDEwMA==
   content: That was yummy XDD!!
 ---
-<p>In this cold winter I'm glad to <a href="http:&#47;&#47;blogs.zentyal.org&#47;heidi&#47;2010&#47;11&#47;29&#47;on-how-rafting-makes-a-great-team-and-why-vaaaamos-is-our-battle-cry&#47;">remember<&#47;a> summertime!</p>
-<p><img src="&#47;wp-content&#47;uploads&#47;2011&#47;01&#47;exekias.gif" alt="" title="Into the wild" width="500" height="334" class="aligncenter size-full wp-image-401" &#47;></p>
-<p>Thank you <a href="http:&#47;&#47;blogs.zentyal.org&#47;heidi&#47;">Heidi<&#47;a> for the photos!</p>
+<p>In this cold winter I'm glad to <a href="http://blogs.zentyal.org/heidi/2010/11/29/on-how-rafting-makes-a-great-team-and-why-vaaaamos-is-our-battle-cry/">remember</a> summertime!</p>
+<p><img src="/wp-content/uploads/2011/01/exekias.gif" alt="" title="Into the wild" width="500" height="334" class="aligncenter size-full wp-image-401" /></p>
+<p>Thank you <a href="http://blogs.zentyal.org/heidi/">Heidi</a> for the photos!</p>

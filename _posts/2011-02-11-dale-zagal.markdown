@@ -40,8 +40,8 @@ comments:
 
     saludos co!'
 ---
-<p>Ya hace casi 3 meses que compr&eacute; una bicicleta para moverme por Zaragoza y es de las mejores ideas que pude tener. Siempre dud&eacute; si mi rechazo a utilizar <a href="http:&#47;&#47;www.bizizaragoza.com&#47;">BIZI Zaragoza<&#47;a> era debido a pura vagancia o incomodidad. Finalmente la segunda se ha alzado con la victoria.</p>
-<p>No me malinterpreten, creo que el servicio de <em>bizicletas<&#47;em> es una gran idea y que adem&aacute;s funciona razonablemente bien. Pero carece de la versatilidad que te ofrece una bicicleta propia bien acompa&ntilde;ada de un candado: libertad de localizaci&oacute;n y de horarios. Mi bicicleta ya me acompa&ntilde;a a todos lados y ya no tengo reparo a aparcarla a la espera en ninguno de ellos :)</p>
-<p><img src="&#47;wp-content&#47;uploads&#47;2011&#47;02&#47;wpid-IMG_20110211_221722.jpg" alt="dale zagal" title="dale zagal" width="500" height="667" class="aligncenter size-full wp-image-414" &#47;></p>
-<p>As&iacute; que ah&iacute; va mi consejo. <strong>&iexcl;Dale Zagal!<&#47;strong></p>
-<p><em>PD: Hice esta foto en un servilletero del <a href="http:&#47;&#47;goo.gl&#47;maps&#47;ngVc">Barrio Sur<&#47;a><&#47;em></p>
+<p>Ya hace casi 3 meses que compr&eacute; una bicicleta para moverme por Zaragoza y es de las mejores ideas que pude tener. Siempre dud&eacute; si mi rechazo a utilizar <a href="http://www.bizizaragoza.com/">BIZI Zaragoza</a> era debido a pura vagancia o incomodidad. Finalmente la segunda se ha alzado con la victoria.</p>
+<p>No me malinterpreten, creo que el servicio de <em>bizicletas</em> es una gran idea y que adem&aacute;s funciona razonablemente bien. Pero carece de la versatilidad que te ofrece una bicicleta propia bien acompa&ntilde;ada de un candado: libertad de localizaci&oacute;n y de horarios. Mi bicicleta ya me acompa&ntilde;a a todos lados y ya no tengo reparo a aparcarla a la espera en ninguno de ellos :)</p>
+<p><img src="/wp-content/uploads/2011/02/wpid-IMG_20110211_221722.jpg" alt="dale zagal" title="dale zagal" width="500" height="667" class="aligncenter size-full wp-image-414" /></p>
+<p>As&iacute; que ah&iacute; va mi consejo. <strong>&iexcl;Dale Zagal!</strong></p>
+<p><em>PD: Hice esta foto en un servilletero del <a href="http://goo.gl/maps/ngVc">Barrio Sur</a></em></p>
