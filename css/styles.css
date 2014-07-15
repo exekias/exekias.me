@@ -50,6 +50,11 @@ a:hover {
   padding: 50px 0 20px 0;
 }
 
+.pagination {
+  padding-top: 30px;
+  text-align: center;
+}
+
 body {
   margin: 0;
   padding: 0 30px 30px;

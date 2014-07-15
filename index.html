@@ -4,11 +4,31 @@ title: exekias.me
 ---
 <div class="blog">
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
+
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+      <a href="/" class="previous">Previous</a>
+      {% else %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+      {% endif %}
+    {% else %}
+        <a class="previous">Previous</a>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+      <a class="next">Next</a>
+    {% endif %}
+  </div>
+
 </div>
