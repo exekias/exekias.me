@@ -3,8 +3,12 @@ html {
   font-family: monospace;
 }
 
+a:visited {
+  color: #666;
+}
+
 a:hover {
-  color: gray;
+  color: #999;
 }
 
 .sidebar {
