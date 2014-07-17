@@ -208,3 +208,9 @@ blockquote {
     display: block;
   }
 }
+
+@media screen and (max-height: 40rem) {
+  .sidebar {
+    position: absolute;
+  }
+}
