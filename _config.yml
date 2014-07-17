@@ -1,10 +1,7 @@
-# Site settings
 title: exekias.me
 timezone: Europe/Madrid
 highlight: pygments
 paginate: 15
 paginate_path: :num/
 
-# Build settings
-markdown: kramdown
 permalink: /:year/:month/:day/:title
