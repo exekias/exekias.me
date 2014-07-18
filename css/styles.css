@@ -104,11 +104,6 @@ a {
   margin: 0 auto 10px auto;
 }
 
-.post-body img.center {
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .post-body img.left {
   float: left;
   margin: 0 10px 10px 0;
@@ -117,6 +112,13 @@ a {
 .post-body img.right {
   float: right;
   margin: 0 0 10px 10px;
+}
+
+@media screen and (max-width: 68rem) {
+  .post-body img.left, .post-body img.right {
+    float: none;
+    margin: 0 auto 10px auto;
+  }
 }
 
 blockquote {
@@ -163,7 +165,14 @@ blockquote {
   text-decoration: underline;
 }
 
+
 @media screen and (max-width: 57.25rem) {
+
+  .post-body img.left, .post-body img.right {
+    float: none;
+    margin: 0 auto 10px auto;
+  }
+
   .sidebar {
     position: static;
     margin: auto;
