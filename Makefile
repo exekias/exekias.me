@@ -9,5 +9,8 @@ test:
 build:
 	jekyll build
 
-upload: build
+upload: clean build
 	rsync -avzt _site/ exekias.me:/srv/apache/exekias.me
+
+clean:
+	rm -rf _site
