@@ -5,3 +5,11 @@ paginate: 15
 paginate_path: :num/
 
 permalink: /:year/:month/:day/:title
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: post
+    values:
+      layout: post
