@@ -6,7 +6,10 @@ tags:
 - samba
 - ldap
 ---
-Indexes are important for any kind of database, specially when you expect high load from your users. And that is the case for [Samba] AD Server the way we use it in [Zentyal Cloud]. Samba works as *Active Directory* replacement, so it holds user accounts and mailboxes info. It's also helpful to perform seamlessly migrations from existing systems.
+
+Indexes are noticeable as soon your load rises above some users and can really improve the overall performance of the system. Monitoring query times is fundamental to provide a successful service and avoid future problems from appearing.
+
+We use [Samba] AD Server in [Zentyal Cloud] as *Active Directory* replacement, so it holds user accounts and mailboxes info. It's also helpful to perform seamlessly migrations from existing systems.
 
 When the number of hosted mailboxes is high, it is important to keep all your query times to a minimum, as every time a mail hits the system (both inbound and outbound mail), some queries are run against Samba (LDAP) in order to resolve its destination. For the case of Zentyal, we support virtual domains, mail alias, and mail forwarding configuration from LDAP.
 
@@ -78,10 +81,6 @@ searchFlags: 1
 {% endhighlight %}
 
 That's all! You can check again all your indexes and see your attribute is now there, query times should have been improve significantly.
-
-Wrapping up
------------
-Indexes are noticeable as soon your load rises above some users and can really improve the overall performance of the system. Monitoring query times is fundamental to provide a successful service and avoid future problems from appearing.
 
 
 [Zentyal Cloud]: https://www.zentyal.com/zinc/
