@@ -11,14 +11,14 @@ Indexes are noticeable as soon your load rises above some users and can really i
 
 We use [Samba] AD Server in [Zentyal Cloud] as *Active Directory* replacement, so it holds user accounts and mailboxes info. It's also helpful to perform seamlessly migrations from existing systems.
 
-When the number of hosted mailboxes is high, it is important to keep all your query times to a minimum, as every time a mail hits the system (both inbound and outbound mail), some queries are run against Samba (LDAP) in order to resolve its destination. For the case of Zentyal, we support virtual domains, mail alias, and mail forwarding configuration from LDAP.
+When the number of hosted mailboxes is high, it is important to keep all your query times to a minimum, as every time a mail hits the system (both inbound and outbound mail), some queries are run against Samba (LDAP) in order to resolve its destination. For the case of Zentyal, we support virtual domains, mail alias, and mail forwarding configuration directly from LDAP.
 
-In this post I will go trough the process of checking and adding new indexes to the database. Depending on the scenario that could reduce query times by 50x!
+In this post I will go through the process of checking and adding new indexes to the database. Depending on the scenario that could reduce query times by 50x!
 
 
 Checking indexed attributes
 ---------------------------
-Samba stores LDAP entires using its own database engine ([LDB]). Index support is fairly simple, at the moment only attribute indexing and one level indexing are supported. Attribute indexing allows to index entries by attribute and one level indexing allows to index child entries for faster access.
+Samba stores LDAP entries using its own database engine ([LDB]). Indexes support is fairly simple, at the moment only exact attribute indexing and one level indexing are available. Attribute indexing allows to index entries by attribute value and one level indexing allows to index child entries for faster access.
 
 {% highlight sh %}
 root@ad1:~# ldbsearch -H /var/lib/samba/private/sam.ldb  -s base -b @INDEXLIST
@@ -49,7 +49,7 @@ dn:
 defaultNamingContext: DC=ad1,DC=devel,DC=zentyal,DC=lan
 {% endhighlight %}
 
-And then edit the schema, using `ldbedit` and set `searchFlags` attribute to 1:
+And then edit the schema, using `ldbedit` and set `searchFlags` attribute to 1 on the attribute entry you want to index:
 
 {% highlight sh %}
 root@ad1:~# ldbedit -H /var/lib/samba/private/sam.ldb  -b CN=SCHEMA,CN=CONFIGURATION,DC=AD1,DC=DEVEL,DC=ZENTYAL,DC=LAN
@@ -80,7 +80,7 @@ systemOnly: FALSE
 searchFlags: 1
 {% endhighlight %}
 
-That's all! You can check again all your indexes and see your attribute is now there, query times should have been improve significantly.
+That's all! You can check again all your indexes and see your attribute is now there, query times should have been improved significantly.
 
 
 [Zentyal Cloud]: https://www.zentyal.com/zinc/
