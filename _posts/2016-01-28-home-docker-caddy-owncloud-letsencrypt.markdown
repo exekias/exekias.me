@@ -101,6 +101,7 @@ caddy:
     - 443:443
   volumes:
     - ./Caddyfile:/Caddyfile
+    - ./caddy:/root/.caddy
   restart: always
   links:
     - owncloud
@@ -143,6 +144,9 @@ check [caddy docs](https://caddyserver.com/docs/getting-started).
 The SSL configuration is just the `tls` line. This sole line tells Caddy to automatically
 follow Let’s Encrypt ACME protocol and get a valid certificate for your site,
 including the automated renewal.
+
+Also, as pointed out by [abiosoft](https://twitter.com/abiosoft), caddy folder volume
+will persist certificates between executions, making sure you don't reach API rate limits.
 
 Run `docker-compse up -d` again to bring Caddy up, the command will not affect the
 containers that already running.
