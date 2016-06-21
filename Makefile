@@ -10,7 +10,7 @@ build:
 	jekyll build
 
 upload: clean build
-	rsync -avzt _site/ box.exekias.me:/home/user-data/www/default
+	rsync -avzt --delete _site/ box.exekias.me:/home/user-data/www/default
 
 clean:
 	rm -rf _site
