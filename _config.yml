@@ -4,7 +4,7 @@ highlight: pygments
 paginate: 15
 paginate_path: :num/
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 
 gems: [jekyll-paginate]
 
