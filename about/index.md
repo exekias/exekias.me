@@ -9,6 +9,6 @@ My name is **Carlos Pérez-Aradros Herce**. I was born in Arnedo, a little town 
 
 **In 2003 I moved to Zaragoza to course my Computer Science degree**, which I really enjoyed, not only because of the classes but also all the time I passed learning new things, **I discovered Free Software**, Linux, programming, the Internet, the Web.
 
-Currently **I’m working at Server Density** as backend engineer. My interests and experience cover the full web stack, from **system administration** (Linux, networking, protocols, security), **DevOps** (AWS, GCloud, Puppet, Docker, Kubernetes), **backend** (Python, Twisted, Django, Go, C++, Java), and some **frontend** (HTML, CSS, Javascript, JQuery) **development**.
+Currently **I’m working at Elastic** as Software Engineer in the Beats team. My interests and experience cover **systems administration** (Linux, networking, protocols, security), **DevOps** (AWS, GCloud, Docker, Kubernetes), and **distributed systems development** (Go, Python, asyncio, C++, Java).
 
 Besides computing, I also enjoy amateur **photography, I travel as much as I can** and I love playing with **new technology and gadgets**. When I have time I also enjoy electronics, using hardware like Arduino and building stuff that flies.
