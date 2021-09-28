@@ -6,7 +6,8 @@ paginate_path: :num/
 
 permalink: /:year/:month/:day/:title/
 
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
 defaults:
   -
